@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tenece\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
+    "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tenece\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {
+    "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore.Tests\\SportsStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tenece\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "projectName": "SportsStore.Tests",
-        "projectPath": "C:\\Users\\Tenece\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectPath": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "packagesPath": "C:\\Users\\Tenece\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tenece\\SportsSln\\SportsStore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tenece\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Tenece\\SportsSln\\SportsStore\\SportsStore.csproj": {
-                "projectPath": "C:\\Users\\Tenece\\SportsSln\\SportsStore\\SportsStore.csproj"
+              "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\SportsStore.csproj": {
+                "projectPath": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\SportsStore.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\Tenece\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tenece\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\Tenece\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\Tenece\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tenece\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\Tenece\\SportsSln\\Sport_Stores\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tenece\\AppData\\Roaming\\NuGet\\NuGet.Config",
